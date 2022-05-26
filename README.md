@@ -22,7 +22,7 @@ Crea la base de datos y sus tablas:
 
 ---
 
-Crea un archivo .env usando el siguiente ejemplo:
+Crea un archivo .env con tus datos usando el siguiente ejemplo:
 ```
 DB_HOST=localhost
 DB_USER=root
